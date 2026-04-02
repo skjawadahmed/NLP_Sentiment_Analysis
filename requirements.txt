@@ -34,7 +34,7 @@ spacy
 # dlib & Dependencies (Linux-friendly)
 # ==============================
 cmake
-dlib
+
 
 # ==============================
 # Plotting & Visualization
@@ -43,15 +43,6 @@ matplotlib
 seaborn
 plotly
 altair
-
-# ==============================
-# Web & API
-# ==============================
-flask
-fastapi
-sqlalchemy
-mysql-connector-python
-yfinance
 
 # ==============================
 # Utilities
