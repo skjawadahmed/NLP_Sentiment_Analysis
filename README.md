@@ -1,4 +1,4 @@
-# 📄 Sentiment Analysis Project — README
+# 📄 NLP - Sentiment Analysis Project — README
 
 ## Project Overview
 
