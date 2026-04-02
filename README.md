@@ -1,5 +1,5 @@
 # 📄 NLP - Sentiment Analysis Project 
-
+[Open SentiScope — AI Sentiment Analyzer](https://sentiscoreanalyzer.streamlit.app/)
 ## Project Overview
 
 **Project Name:** SentiScope — AI Sentiment Analyzer
