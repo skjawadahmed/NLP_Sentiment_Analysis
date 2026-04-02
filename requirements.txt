@@ -1,41 +1,59 @@
-# Core
+# ==============================
+# Core Packages
+# ==============================
 streamlit==1.36.0
-rich>=10.14.0,<14
 numpy
 pandas
-scipy
 scikit-learn
-matplotlib
-seaborn
-
-# NLP & ML
+scipy
 nltk
-spacy
-xgboost
-lightgbm
-catboost
+joblib
 
-# Text processing
+# ==============================
+# Machine Learning & Deep Learning
+# ==============================
+xgboost
+catboost
+lightgbm
+tensorflow
+torch
+keras
+transformers
+
+# ==============================
+# NLP & Text Processing
+# ==============================
 regex
-beautifulsoup4
 markdown-it-py
 mdurl
 pygments
+rich<14
+spacy
 
-# Deep learning & Transformers
-tensorflow
-keras
-torch
-transformers
-jax
-jaxlib
+# ==============================
+# dlib & Dependencies (Linux-friendly)
+# ==============================
+cmake
+dlib
 
-
-
-# Others
-joblib
-pickle-mixin
-tqdm
+# ==============================
+# Plotting & Visualization
+# ==============================
+matplotlib
+seaborn
 plotly
-opencv-python-headless
-Pillow
+altair
+
+# ==============================
+# Web & API
+# ==============================
+flask
+fastapi
+sqlalchemy
+mysql-connector-python
+yfinance
+
+# ==============================
+# Utilities
+# ==============================
+python-dotenv
