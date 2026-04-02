@@ -1,5 +1,5 @@
 # 📄 NLP - Sentiment Analysis Project 
-[![Open SentiScope](https://img.shields.io/badge/Open-SentiScope-blue?style=for-the-badge)](https://sentiscoreanalyzer.streamlit.app/) - Open Application
+[![Open SentiScope](https://img.shields.io/badge/Open-SentiScope-blue?style=for-the-badge)](https://sentiscoreanalyzer.streamlit.app/) --> Click to Open the Application
 ## Project Overview
 
 **Project Name:** SentiScope — AI Sentiment Analyzer
