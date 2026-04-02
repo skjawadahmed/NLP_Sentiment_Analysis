@@ -31,12 +31,6 @@ rich<14
 spacy
 
 # ==============================
-# dlib & Dependencies (Linux-friendly)
-# ==============================
-cmake
-
-
-# ==============================
 # Plotting & Visualization
 # ==============================
 matplotlib
