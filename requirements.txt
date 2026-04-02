@@ -15,9 +15,7 @@ joblib
 xgboost
 catboost
 lightgbm
-tensorflow
 torch
-keras
 transformers
 
 # ==============================
