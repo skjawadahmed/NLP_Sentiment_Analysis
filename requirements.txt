@@ -9,7 +9,7 @@ scipy
 nltk
 joblib
 
-Pillow==9.6.0
+Pillow==12.2.0
 
 # ==============================
 # Machine Learning & Deep Learning
