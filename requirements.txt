@@ -2,43 +2,42 @@
 # Core Packages
 # ==============================
 streamlit==1.36.0
-numpy
-pandas
-scikit-learn
-scipy
-nltk
-joblib
-
-Pillow==10.0.1
+numpy==1.25.2
+pandas==2.1.1
+scikit-learn==1.2.2
+scipy==1.11.1
+nltk==3.9.4
+joblib==1.3.2
+Pillow==9.5.0
 
 # ==============================
 # Machine Learning & Deep Learning
 # ==============================
-xgboost
-catboost
-lightgbm
-torch
-transformers
+xgboost==1.8.6
+catboost==1.2
+lightgbm==4.0.0
+torch==2.3.1
+transformers==4.42.2
 
 # ==============================
 # NLP & Text Processing
 # ==============================
-regex
-markdown-it-py
-mdurl
-pygments
-rich<14
-spacy
+regex==2023.10.11
+markdown-it-py==4.0.0
+mdurl==0.1.2
+pygments==2.20.0
+rich==14.3.3
+spacy==3.6.0
 
 # ==============================
 # Plotting & Visualization
 # ==============================
-matplotlib
-seaborn
-plotly
-altair
+matplotlib==3.8.0
+seaborn==0.13.2
+plotly==6.0.0
+altair==5.2.0
 
 # ==============================
 # Utilities
 # ==============================
-python-dotenv
+python-dotenv==1.0.0
