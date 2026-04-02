@@ -44,7 +44,7 @@ The goal is to classify user reviews or text data into sentiments with high accu
 ## 📂 Project Structure
 
 ```
-Sentiment_Analysis_Project/
+NLP_Sentiment_Analysis/
 │
 ├─ app.py                # Streamlit deployment file
 ├─ data/
