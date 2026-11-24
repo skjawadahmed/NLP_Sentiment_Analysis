@@ -171,9 +171,9 @@ streamlit run app.py
 
 | Model               | Accuracy | Macro F1 | Weighted F1 | Notes                   |
 | ------------------- | -------- | -------- | ----------- | ----------------------- |
-| Logistic Regression | 0.7986   | 0.68     | 0.78        | Good baseline           |
-| **SVM (Final)**     | 0.8056   | 0.67     | 0.78        | Best overall model ✅    |
-| Naive Bayes         | 0.7604   | 0.54     | 0.70        | Lower recall on Neutral |
+| Logistic Regression | 0.8922   | 0.68     | 0.89        | Good baseline           |
+| **SVM (Final)**     | 0.9118   | 0.67     | 0.91        | Best overall model ✅    |
+| Naive Bayes         | 0.8603   | 0.54     | 0.86        | Lower recall on Neutral |
 | XGBoost             | 0.7639   | 0.61     | 0.74        | Slightly lower than SVM |
 
 **Best Model:** **SVM**
